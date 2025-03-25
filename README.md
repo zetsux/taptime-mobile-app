@@ -1,16 +1,9 @@
-# flutter_ppb_assignment_1
+# taptime-mobile-app
 
-A new Flutter project.
+## Description
 
-## Getting Started
+TapTime! is a mobile application created using Flutter (Dart) as my 1st assignment for Mobile-based Programming in College to utilize widgets, states, and lists in an app implementation. It's a reflex test app that time your reflex in milliseconds and store your history that's editable and deletable (supports CRUD) with a high score mechanism.
 
-This project is a starting point for a Flutter application.
+## URL Video Demo
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[https://youtu.be/sW6A-iTBXWI](https://youtu.be/sW6A-iTBXWI)
